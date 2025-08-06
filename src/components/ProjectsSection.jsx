@@ -9,7 +9,7 @@ const projects = [
     tech: ['React.js', 'Node.js', 'Express.js', 'MySQL'],
     image: '/assets/projects/dl360.png',
     github: 'https://github.com/DeveshKulal/DL360.git',
-    demo: '',
+    demo: 'https://dl-360.vercel.app/',
   },
   {
     title: 'Smart Traffic Control and Violation Detection System',
